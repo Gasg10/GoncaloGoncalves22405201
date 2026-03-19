@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'ginasio',
     'receita',
     'loja',
+    'quizz',
+
 ]
 
 MIDDLEWARE = [
